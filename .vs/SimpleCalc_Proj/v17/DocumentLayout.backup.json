@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\esant\\source\\repos\\SimpleCalc_Proj\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F706E86E-349A-4383-81FC-2CFC87ECC303}|SimpleCalc_Proj.vcxproj|C:\\Users\\esant\\source\\repos\\SimpleCalc_Proj\\SimpleCalc_Proj.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F706E86E-349A-4383-81FC-2CFC87ECC303}|SimpleCalc_Proj.vcxproj|solutionrelative:SimpleCalc_Proj.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SimpleCalc_Proj.cpp",
+              "DocumentMoniker": "C:\\Users\\esant\\source\\repos\\SimpleCalc_Proj\\SimpleCalc_Proj.cpp",
+              "RelativeDocumentMoniker": "SimpleCalc_Proj.cpp",
+              "ToolTip": "C:\\Users\\esant\\source\\repos\\SimpleCalc_Proj\\SimpleCalc_Proj.cpp",
+              "RelativeToolTip": "SimpleCalc_Proj.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-02T02:20:08.743Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
